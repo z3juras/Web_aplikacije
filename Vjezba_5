@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hr">
+    <head>
+        <title>Neki naslov</title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="author" content="Zvonko Juras">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <body>
+        <h1>Popis mobitela</h1>
+        <table border="1" cellspacing="4" cellpading="5" width="25%">
+            <tr>
+                <th colspan="2" align="center">Samsung</th>
+                <th colspan="2" align="center">Apple</th>
+            </tr>
+            <tr align="center">
+                <td><img src="https://drop.ndtv.com/TECH/product_database/images/480_1_4009_480X960_4272017121849PM.jpg?downsize=*:420&amp;output-quality=80" data-album-name="Gallery" width="50"></td>
+                <td>Galaxy S8</td>
+                <td><img src="https://i.gadgets360cdn.com/products/large/iphone-15-pro-600x800-1694549264.jpg?downsize=*:420&amp;output-quality=80" data-album-name="Gallery" width="50"></td>
+                <td>Iphone 9</td>
+            </tr>
+            <tr align="center">
+                <td><img src="https://i.gadgets360cdn.com/products/large/1519585112_635_samsung_galaxy_s9_plus_grey.jpg?downsize=*:420&amp;output-quality=80" data-album-name="Design" height="100"></td>
+                <td>Galaxy S9</td>
+                <td><img src="https://drop.ndtv.com/TECH/product_database/images/913201720152AM_635_iphone_x.jpeg?downsize=*:420&amp;output-quality=80" data-album-name="Gallery" height="100"></td>
+                <td>Iphone X</td>
+            </tr>
+        </table>
+    </body>  
+</html>
