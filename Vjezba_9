@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hr">
+    <head>
+        <title>Neki naslov</title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="author" content="Zvonko Juras">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <body>
+        <div style="width: 48%; float: left;margin-right:2%">
+            <h2>HTML5 <span style="color:green">&lt;video&gt;</span>lokalni video</h2>
+            <video width="100%" heigh="100%" controls autoplay muted>
+                <source src="video.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div style="width: 50%; float: left;">
+            <h2>Youtube video</h2>
+            <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLsyvDWwjkTqtOmqAiTzzfHspTAztB-udL" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+        </div>
+    </body>  
+</html>
